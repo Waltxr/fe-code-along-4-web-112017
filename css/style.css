@@ -42,7 +42,7 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select elements with id="logo" */
-  
+
 }
 
 /* Descendent Selector */
@@ -133,7 +133,6 @@ header {
   width: 100%;
   background: #fff;
   z-index: 1;
-
 }
 
 section {
